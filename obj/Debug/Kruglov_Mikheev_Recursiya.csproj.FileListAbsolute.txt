@@ -1,0 +1,8 @@
+C:\Users\Ученик\source\repos\Kruglov_Mikheev_Recursiya\bin\Debug\Kruglov_Mikheev_Recursiya.exe.config
+C:\Users\Ученик\source\repos\Kruglov_Mikheev_Recursiya\bin\Debug\Kruglov_Mikheev_Recursiya.exe
+C:\Users\Ученик\source\repos\Kruglov_Mikheev_Recursiya\bin\Debug\Kruglov_Mikheev_Recursiya.pdb
+C:\Users\Ученик\source\repos\Kruglov_Mikheev_Recursiya\obj\Debug\Kruglov_Mikheev_Recursiya.csproj.AssemblyReference.cache
+C:\Users\Ученик\source\repos\Kruglov_Mikheev_Recursiya\obj\Debug\Kruglov_Mikheev_Recursiya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ученик\source\repos\Kruglov_Mikheev_Recursiya\obj\Debug\Kruglov_Mikheev_Recursiya.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\source\repos\Kruglov_Mikheev_Recursiya\obj\Debug\Kruglov_Mikheev_Recursiya.exe
+C:\Users\Ученик\source\repos\Kruglov_Mikheev_Recursiya\obj\Debug\Kruglov_Mikheev_Recursiya.pdb
